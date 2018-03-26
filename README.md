@@ -1,5 +1,7 @@
 # ChrPinedo.Itop Powershell Module
 
+[![Build Status](https://travis-ci.org/chrpinedo/ChrPinedo.Itop.svg?branch=master)](https://travis-ci.org/chrpinedo/ChrPinedo.Itop)
+
 ChrPinedo.Itop is a minimal Powershell Module for the REST API of [iTop CMDB](https://sourceforge.net/projects/itop).
 
 ## Features
