@@ -3,7 +3,7 @@ language: generic
 matrix:
   include:
     - os: linux
-      dist: trusty
+      dist: zesty
       sudo: false
       addons:
         apt:
