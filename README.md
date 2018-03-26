@@ -14,7 +14,7 @@ Query of some objects of the iTop CMDB:
 
 ## Installation
 
-The recommended way to install this module is via [PowerShell Gallery](https://www.powershellgallery.com/packages/ChrPinedo.Itop)
+The recommended way to install this module is via [PowerShell Gallery](https://www.powershellgallery.com/packages/ChrPinedo.Itop).
 
 ## Usage
 
