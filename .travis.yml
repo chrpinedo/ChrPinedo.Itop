@@ -12,4 +12,4 @@ addons:
       - powershell
 
 script:
-  - pwsh -c 'Import-Module $env:TRAVIS_BUILD_DIR -Scope CurrentUser'
+  - pwsh -c 'Import-Module $env:TRAVIS_BUILD_DIR ; Get-Command -Module ChrPinedo.Itop'
