@@ -102,13 +102,13 @@ PrivateData = @{
     PSData = @{
 
         # Tags applied to this module. These help with module discovery in online galleries.
-        # Tags = @()
+        Tags = @("itop")
 
         # A URL to the license for this module.
-        # LicenseUri = ''
+        LicenseUri = 'https://raw.githubusercontent.com/chrpinedo/ChrPinedo.Itop/master/LICENSE.txt'
 
         # A URL to the main website for this project.
-        # ProjectUri = ''
+        ProjectUri = 'https://github.com/chrpinedo/ChrPinedo.Itop'
 
         # A URL to an icon representing this module.
         # IconUri = ''
